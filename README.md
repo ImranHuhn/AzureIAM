@@ -1,11 +1,5 @@
 <h1 align="center">Creating a Resource Group (for IAM user)</h1>
 
-<h2>Links:</h2>
-
-- [Google Doc](https://docs.google.com/document/d/1uvH1xt40GQVH9PJe3dRQ7eJF6HBQaVdKAmTkoXzQQXY/edit?usp=sharing)
-- [Github Repo](https://github.com/ImranHuhn/AzureRGIAM)
-- [Blog](http://www.techdeficient.com/2024/06/creating-resource-group-for-iam-user.html)
-
 <h2>TLDR: Create “Resource group” (for IAM User)</h2>
 
 - <b>Introduction: </b>Essential step for efficient Azure resource management; simplifies administration, enhances security, and incurs no cost unless resources are added.
